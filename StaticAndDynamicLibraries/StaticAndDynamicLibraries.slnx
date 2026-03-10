@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Greeter/Greeter.vcxproj" />
+  <Project Path="../LeaverDLL/LeaverDLL.vcxproj" />
+  <Project Path="StaticAndDynamicLibraries.vcxproj" />
+</Solution>
