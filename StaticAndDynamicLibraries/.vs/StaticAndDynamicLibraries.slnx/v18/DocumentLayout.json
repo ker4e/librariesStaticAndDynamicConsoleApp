@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47FF1B67-2F80-4E13-8560-D89C0F06CE5A}|..\\LeaverDLL\\LeaverDLL.vcxproj|C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\LeaverDLL\\LeaverDLL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCD15CF-F050-47A7-ABAD-0543643DDEE7}|..\\Greeter\\Greeter.vcxproj|C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\Greeter\\Greeter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D21806E5-F762-412B-8E82-DF0D37F4A37D}|StaticAndDynamicLibraries.vcxproj|C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D21806E5-F762-412B-8E82-DF0D37F4A37D}|StaticAndDynamicLibraries.vcxproj|solutionrelative:StaticAndDynamicLibraries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +25,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LeaverDLL.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\LeaverDLL\\LeaverDLL.cpp",
+              "RelativeDocumentMoniker": "..\\LeaverDLL\\LeaverDLL.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\LeaverDLL\\LeaverDLL.cpp",
+              "RelativeToolTip": "..\\LeaverDLL\\LeaverDLL.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T14:40:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Greeter.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\Greeter\\Greeter.h",
+              "RelativeDocumentMoniker": "..\\Greeter\\Greeter.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\Greeter\\Greeter.h",
+              "RelativeToolTip": "..\\Greeter\\Greeter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-10T14:40:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StaticAndDynamicLibraries.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp",
               "RelativeDocumentMoniker": "StaticAndDynamicLibraries.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp",
               "RelativeToolTip": "StaticAndDynamicLibraries.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-10T13:45:47.291Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\Greeter\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Greeter\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\LeaverDLL\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LeaverDLL\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StaticAndDynamicLibraries\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\Greeter\\.gitignore",
+              "RelativeDocumentMoniker": "Greeter\\.gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\Greeter\\.gitignore",
+              "RelativeToolTip": "Greeter\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-10T15:23:29.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\LeaverDLL\\.gitignore",
+              "RelativeDocumentMoniker": "LeaverDLL\\.gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\LeaverDLL\\.gitignore",
+              "RelativeToolTip": "LeaverDLL\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-10T15:21:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\.gitignore",
+              "RelativeDocumentMoniker": "StaticAndDynamicLibraries\\.gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\.gitignore",
+              "RelativeToolTip": "StaticAndDynamicLibraries\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-10T15:21:05.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticAndDynamicLibraries.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp",
+              "RelativeDocumentMoniker": "StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\STATIC_AND_DYNAMIC\\EX1,2\\StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp",
+              "RelativeToolTip": "StaticAndDynamicLibraries\\StaticAndDynamicLibraries.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-10T14:48:34.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
